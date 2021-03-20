@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582516946989",
+    "project_id": "potholedetection-f30ba",
+    "storage_bucket": "potholedetection-f30ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582516946989:android:833d103afe39b9f647a0a4",
+        "android_client_info": {
+          "package_name": "com.example.official_road_degradation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582516946989-qi722ud9n22t5sv66u73t1acvmfjdof3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGYix2y0NuU8NDwQD_qsMPSyZhSWCzHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582516946989-qi722ud9n22t5sv66u73t1acvmfjdof3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">582516946989-qi722ud9n22t5sv66u73t1acvmfjdof3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">582516946989</string>
+    <string name="google_api_key" translatable="false">AIzaSyBOGYix2y0NuU8NDwQD_qsMPSyZhSWCzHA</string>
+    <string name="google_app_id" translatable="false">1:582516946989:android:833d103afe39b9f647a0a4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBOGYix2y0NuU8NDwQD_qsMPSyZhSWCzHA</string>
+    <string name="google_storage_bucket" translatable="false">potholedetection-f30ba.appspot.com</string>
+    <string name="project_id" translatable="false">potholedetection-f30ba</string>
+</resources>

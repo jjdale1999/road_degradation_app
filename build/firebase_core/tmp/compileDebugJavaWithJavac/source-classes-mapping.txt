@@ -1,0 +1,4 @@
+io/flutter/plugins/firebase/core/BuildConfig.java
+ io.flutter.plugins.firebase.core.BuildConfig
+io/flutter/plugins/firebase/core/FirebaseCorePlugin.java
+ io.flutter.plugins.firebase.core.FirebaseCorePlugin

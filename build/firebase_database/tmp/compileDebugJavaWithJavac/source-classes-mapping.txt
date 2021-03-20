@@ -1,0 +1,8 @@
+io/flutter/plugins/firebase/database/BuildConfig.java
+ io.flutter.plugins.firebase.database.BuildConfig
+io/flutter/plugins/firebase/database/FirebaseDatabasePlugin.java
+ io.flutter.plugins.firebase.database.FirebaseDatabasePlugin
+ io.flutter.plugins.firebase.database.FirebaseDatabasePlugin$1
+ io.flutter.plugins.firebase.database.FirebaseDatabasePlugin$1$1
+ io.flutter.plugins.firebase.database.FirebaseDatabasePlugin$DefaultCompletionListener
+ io.flutter.plugins.firebase.database.FirebaseDatabasePlugin$EventObserver
